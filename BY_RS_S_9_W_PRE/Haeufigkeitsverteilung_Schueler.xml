@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <Kategorie-Nr>2521</Kategorie-Nr>
+    <Kategorie>Gender</Kategorie>
+    <Item-Nr>18935</Item-Nr>
+    <Item>Jungs spielen mehr Computerspiele als Mädchen.</Item>
+    <Insgesamt>19</Insgesamt>
+    <Stimme nicht zu>3</Stimme nicht zu>
+    <Stimme eher nicht zu>2</Stimme eher nicht zu>
+    <Stimme eher zu>3</Stimme eher zu>
+    <Stimme zu>11</Stimme zu>
+  </row>
+  <row>
+    <Kategorie-Nr>2521</Kategorie-Nr>
+    <Kategorie>Gender</Kategorie>
+    <Item-Nr>18936</Item-Nr>
+    <Item>Mädchen interessieren sich für andere Computerspiele als Jungs.</Item>
+    <Insgesamt>19</Insgesamt>
+    <Stimme nicht zu>3</Stimme nicht zu>
+    <Stimme eher nicht zu>8</Stimme eher nicht zu>
+    <Stimme eher zu>7</Stimme eher zu>
+    <Stimme zu>1</Stimme zu>
+  </row>
+  <row>
+    <Kategorie-Nr>2521</Kategorie-Nr>
+    <Kategorie>Gender</Kategorie>
+    <Item-Nr>18937</Item-Nr>
+    <Item>Jungs spielen mehr &quot;Ballerspiele&quot; als Mädchen.</Item>
+    <Insgesamt>19</Insgesamt>
+    <Stimme nicht zu>0</Stimme nicht zu>
+    <Stimme eher nicht zu>3</Stimme eher nicht zu>
+    <Stimme eher zu>6</Stimme eher zu>
+    <Stimme zu>10</Stimme zu>
+  </row>
+  <row>
+    <Kategorie-Nr>2521</Kategorie-Nr>
+    <Kategorie>Gender</Kategorie>
+    <Item-Nr>18938</Item-Nr>
+    <Item>Mädchen spielen eher Spiele an Konsolen (wie Playstation oder Xbox), Jungs eher Spiele auf dem Handy.</Item>
+    <Insgesamt>18</Insgesamt>
+    <Stimme nicht zu>12</Stimme nicht zu>
+    <Stimme eher nicht zu>5</Stimme eher nicht zu>
+    <Stimme eher zu>1</Stimme eher zu>
+    <Stimme zu>0</Stimme zu>
+  </row>
+  <row>
+    <Kategorie-Nr>2521</Kategorie-Nr>
+    <Kategorie>Gender</Kategorie>
+    <Item-Nr>18939</Item-Nr>
+    <Item>Mädchen und Jungs können nicht gut zusammen Computerspiele spielen.</Item>
+    <Insgesamt>19</Insgesamt>
+    <Stimme nicht zu>7</Stimme nicht zu>
+    <Stimme eher nicht zu>5</Stimme eher nicht zu>
+    <Stimme eher zu>3</Stimme eher zu>
+    <Stimme zu>4</Stimme zu>
+  </row>
+  <row>
+    <Kategorie-Nr>2524</Kategorie-Nr>
+    <Kategorie>Interest</Kategorie>
+    <Item-Nr>18940</Item-Nr>
+    <Item>Ich spiele gerne Computerspiele.</Item>
+    <Insgesamt>19</Insgesamt>
+    <Stimme nicht zu>5</Stimme nicht zu>
+    <Stimme eher nicht zu>8</Stimme eher nicht zu>
+    <Stimme eher zu>4</Stimme eher zu>
+    <Stimme zu>2</Stimme zu>
+  </row>
+  <row>
+    <Kategorie-Nr>2524</Kategorie-Nr>
+    <Kategorie>Interest</Kategorie>
+    <Item-Nr>18948</Item-Nr>
+    <Item>Ich würde gerne auch mal Computerspiele in der Schule spielen.</Item>
+    <Insgesamt>19</Insgesamt>
+    <Stimme nicht zu>5</Stimme nicht zu>
+    <Stimme eher nicht zu>5</Stimme eher nicht zu>
+    <Stimme eher zu>2</Stimme eher zu>
+    <Stimme zu>7</Stimme zu>
+  </row>
+  <row>
+    <Kategorie-Nr>2524</Kategorie-Nr>
+    <Kategorie>Interest</Kategorie>
+    <Item-Nr>18949</Item-Nr>
+    <Item>Ich weiß, welche Computerspiele gerade &quot;in&quot; sind.</Item>
+    <Insgesamt>19</Insgesamt>
+    <Stimme nicht zu>3</Stimme nicht zu>
+    <Stimme eher nicht zu>4</Stimme eher nicht zu>
+    <Stimme eher zu>4</Stimme eher zu>
+    <Stimme zu>8</Stimme zu>
+  </row>
+  <row>
+    <Kategorie-Nr>2524</Kategorie-Nr>
+    <Kategorie>Interest</Kategorie>
+    <Item-Nr>18950</Item-Nr>
+    <Item>Ich finde Computerspiele toll.</Item>
+    <Insgesamt>19</Insgesamt>
+    <Stimme nicht zu>4</Stimme nicht zu>
+    <Stimme eher nicht zu>5</Stimme eher nicht zu>
+    <Stimme eher zu>6</Stimme eher zu>
+    <Stimme zu>4</Stimme zu>
+  </row>
+  <row>
+    <Kategorie-Nr>2524</Kategorie-Nr>
+    <Kategorie>Interest</Kategorie>
+    <Item-Nr>18951</Item-Nr>
+    <Item>Computerspiele finde ich langweilig.</Item>
+    <Insgesamt>19</Insgesamt>
+    <Stimme nicht zu>7</Stimme nicht zu>
+    <Stimme eher nicht zu>6</Stimme eher nicht zu>
+    <Stimme eher zu>2</Stimme eher zu>
+    <Stimme zu>4</Stimme zu>
+  </row>
+  <row>
+    <Kategorie-Nr>2525</Kategorie-Nr>
+    <Kategorie>Learning</Kategorie>
+    <Item-Nr>18952</Item-Nr>
+    <Item>Es gibt Computerspiele, von denen man viel lernen kann.</Item>
+    <Insgesamt>19</Insgesamt>
+    <Stimme nicht zu>4</Stimme nicht zu>
+    <Stimme eher nicht zu>5</Stimme eher nicht zu>
+    <Stimme eher zu>7</Stimme eher zu>
+    <Stimme zu>3</Stimme zu>
+  </row>
+  <row>
+    <Kategorie-Nr>2525</Kategorie-Nr>
+    <Kategorie>Learning</Kategorie>
+    <Item-Nr>18953</Item-Nr>
+    <Item>Computerspiele und &quot;Lernen&quot; haben nichts miteinander zu tun.</Item>
+    <Insgesamt>19</Insgesamt>
+    <Stimme nicht zu>2</Stimme nicht zu>
+    <Stimme eher nicht zu>7</Stimme eher nicht zu>
+    <Stimme eher zu>6</Stimme eher zu>
+    <Stimme zu>4</Stimme zu>
+  </row>
+  <row>
+    <Kategorie-Nr>2525</Kategorie-Nr>
+    <Kategorie>Learning</Kategorie>
+    <Item-Nr>18954</Item-Nr>
+    <Item>Ich habe von Computerspielen Dinge gelernt, die ich auch &quot;im echten Leben&quot; brauchen kann.</Item>
+    <Insgesamt>19</Insgesamt>
+    <Stimme nicht zu>9</Stimme nicht zu>
+    <Stimme eher nicht zu>5</Stimme eher nicht zu>
+    <Stimme eher zu>3</Stimme eher zu>
+    <Stimme zu>2</Stimme zu>
+  </row>
+  <row>
+    <Kategorie-Nr>2525</Kategorie-Nr>
+    <Kategorie>Learning</Kategorie>
+    <Item-Nr>18957</Item-Nr>
+    <Item>Man sollte sich auch in der Schule mit Computerspielen beschäftigen.</Item>
+    <Insgesamt>19</Insgesamt>
+    <Stimme nicht zu>5</Stimme nicht zu>
+    <Stimme eher nicht zu>2</Stimme eher nicht zu>
+    <Stimme eher zu>6</Stimme eher zu>
+    <Stimme zu>6</Stimme zu>
+  </row>
+  <row>
+    <Kategorie-Nr>2525</Kategorie-Nr>
+    <Kategorie>Learning</Kategorie>
+    <Item-Nr>18958</Item-Nr>
+    <Item>Typische &quot;Lernspiele&quot; machen meist keinen Spaß.</Item>
+    <Insgesamt>19</Insgesamt>
+    <Stimme nicht zu>2</Stimme nicht zu>
+    <Stimme eher nicht zu>5</Stimme eher nicht zu>
+    <Stimme eher zu>5</Stimme eher zu>
+    <Stimme zu>7</Stimme zu>
+  </row>
+  <row>
+    <Kategorie-Nr>2522</Kategorie-Nr>
+    <Kategorie>Experience</Kategorie>
+    <Item-Nr>18959</Item-Nr>
+    <Item>Ich kenne viele Computerspiele.</Item>
+    <Insgesamt>18</Insgesamt>
+    <Stimme nicht zu>1</Stimme nicht zu>
+    <Stimme eher nicht zu>8</Stimme eher nicht zu>
+    <Stimme eher zu>6</Stimme eher zu>
+    <Stimme zu>3</Stimme zu>
+  </row>
+  <row>
+    <Kategorie-Nr>2522</Kategorie-Nr>
+    <Kategorie>Experience</Kategorie>
+    <Item-Nr>18960</Item-Nr>
+    <Item>Ich habe schon einige &quot;Lernspiele&quot; am Computer gespielt.</Item>
+    <Insgesamt>19</Insgesamt>
+    <Stimme nicht zu>4</Stimme nicht zu>
+    <Stimme eher nicht zu>5</Stimme eher nicht zu>
+    <Stimme eher zu>5</Stimme eher zu>
+    <Stimme zu>5</Stimme zu>
+  </row>
+  <row>
+    <Kategorie-Nr>2522</Kategorie-Nr>
+    <Kategorie>Experience</Kategorie>
+    <Item-Nr>18961</Item-Nr>
+    <Item>Ich besitze eine Spielkonsole (zum Beispiel Playstation oder Xbox).</Item>
+    <Insgesamt>19</Insgesamt>
+    <Stimme nicht zu>6</Stimme nicht zu>
+    <Stimme eher nicht zu>1</Stimme eher nicht zu>
+    <Stimme eher zu>3</Stimme eher zu>
+    <Stimme zu>9</Stimme zu>
+  </row>
+  <row>
+    <Kategorie-Nr>2522</Kategorie-Nr>
+    <Kategorie>Experience</Kategorie>
+    <Item-Nr>18962</Item-Nr>
+    <Item>Ich habe Spiele-Apps auf meinem Handy installiert.</Item>
+    <Insgesamt>19</Insgesamt>
+    <Stimme nicht zu>7</Stimme nicht zu>
+    <Stimme eher nicht zu>0</Stimme eher nicht zu>
+    <Stimme eher zu>8</Stimme eher zu>
+    <Stimme zu>4</Stimme zu>
+  </row>
+  <row>
+    <Kategorie-Nr>2522</Kategorie-Nr>
+    <Kategorie>Experience</Kategorie>
+    <Item-Nr>18963</Item-Nr>
+    <Item>Ich spiele in meiner Freizeit gerne am Computer.</Item>
+    <Insgesamt>19</Insgesamt>
+    <Stimme nicht zu>6</Stimme nicht zu>
+    <Stimme eher nicht zu>10</Stimme eher nicht zu>
+    <Stimme eher zu>2</Stimme eher zu>
+    <Stimme zu>1</Stimme zu>
+  </row>
+  <row>
+    <Kategorie-Nr>2523</Kategorie-Nr>
+    <Kategorie>Ethics</Kategorie>
+    <Item-Nr>18964</Item-Nr>
+    <Item>Mir macht es Spaß, in Computerspielen auch andere Wesen zu töten.</Item>
+    <Insgesamt>19</Insgesamt>
+    <Stimme nicht zu>4</Stimme nicht zu>
+    <Stimme eher nicht zu>2</Stimme eher nicht zu>
+    <Stimme eher zu>1</Stimme eher zu>
+    <Stimme zu>12</Stimme zu>
+  </row>
+  <row>
+    <Kategorie-Nr>2523</Kategorie-Nr>
+    <Kategorie>Ethics</Kategorie>
+    <Item-Nr>18965</Item-Nr>
+    <Item>Ich habe kein Problem damit, wenn in Computerspielen Menschen sterben.</Item>
+    <Insgesamt>19</Insgesamt>
+    <Stimme nicht zu>3</Stimme nicht zu>
+    <Stimme eher nicht zu>4</Stimme eher nicht zu>
+    <Stimme eher zu>3</Stimme eher zu>
+    <Stimme zu>9</Stimme zu>
+  </row>
+  <row>
+    <Kategorie-Nr>2523</Kategorie-Nr>
+    <Kategorie>Ethics</Kategorie>
+    <Item-Nr>18966</Item-Nr>
+    <Item>Es ist ein Unterschied, ob Menschen oder andere Wesen in Computerspielen sterben.</Item>
+    <Insgesamt>19</Insgesamt>
+    <Stimme nicht zu>2</Stimme nicht zu>
+    <Stimme eher nicht zu>2</Stimme eher nicht zu>
+    <Stimme eher zu>6</Stimme eher zu>
+    <Stimme zu>9</Stimme zu>
+  </row>
+  <row>
+    <Kategorie-Nr>2523</Kategorie-Nr>
+    <Kategorie>Ethics</Kategorie>
+    <Item-Nr>18967</Item-Nr>
+    <Item>&quot;Ballerspiele&quot; sind toll.</Item>
+    <Insgesamt>19</Insgesamt>
+    <Stimme nicht zu>6</Stimme nicht zu>
+    <Stimme eher nicht zu>3</Stimme eher nicht zu>
+    <Stimme eher zu>6</Stimme eher zu>
+    <Stimme zu>4</Stimme zu>
+  </row>
+  <row>
+    <Kategorie-Nr>2523</Kategorie-Nr>
+    <Kategorie>Ethics</Kategorie>
+    <Item-Nr>18969</Item-Nr>
+    <Item>Ich finde es bedenklich, wenn in Computerspielen andere Menschen getötet werden müssen.</Item>
+    <Insgesamt>19</Insgesamt>
+    <Stimme nicht zu>6</Stimme nicht zu>
+    <Stimme eher nicht zu>3</Stimme eher nicht zu>
+    <Stimme eher zu>4</Stimme eher zu>
+    <Stimme zu>6</Stimme zu>
+  </row>
+</root>
