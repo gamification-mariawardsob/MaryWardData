@@ -2,48 +2,63 @@
 
 **S**
 
-***+2 +1 -1 -2***
+***1 2 3 4***
 
-*Ethics*
+*Ethics (2523)*
 
+18964
 Mir macht es Spaß, in Computerspielen auch andere Wesen zu töten.
 
+18965
 Ich habe kein Problem damit, wenn in Computerspielen Menschen sterben.
 
+18966
 Es ist ein Unterschied, ob Menschen oder andere Wesen in Computerspielen sterben.
 
+18967
 "Ballerspiele" sind toll.
 
+18969
 Ich finde es bedenklich, wenn in Computerspielen andere Menschen getötet werden müssen.
 
 
-*Experience*
+*Experience (2522)*
 
+18959
 Ich kenne viele Computerspiele.
 
+18960
 Ich habe schon einige "Lernspiele" am Computer gespielt.
 
+18961
 Ich besitze eine Spielkonsole (zum Beispiel Playstation oder Xbox).
 
+18962
 Ich habe Spiele-Apps auf meinem Handy installiert.
 
+18963
 Ich spiele in meiner Freizeit gerne am Computer.
 
 
-*Gender*
+*Gender (2521)*
 
+18935
 Jungs spielen mehr Computerspiele als Mädchen.
 
+18936
 Mädchen interessieren sich für andere Computerspiele als Jungs.
 
+18937
 Jungs spielen mehr "Ballerspiele" als Mädchen.
 
+18938
 Mädchen spielen eher Spiele an Konsolen (wie Playstation oder Xbox), Jungs eher Spiele auf dem Handy.
 
+18939
 Mädchen und Jungs können nicht gut zusammen Computerspiele spielen.
 
 
-*Interest*
+*Interest (*
 
 Ich spiele gerne Computerspiele.
 
