@@ -1,0 +1,178 @@
+[
+  {
+    "2521": "Gender",
+    "2522": "Experience",
+    "2523": "Ethics",
+    "2524": "Interest",
+    "2525": "Learning",
+    "Kategorie-Nr": "Kategorie"
+  },
+  {
+    "2521": 18939,
+    "2522": 18963,
+    "2523": 18969,
+    "2524": 18951,
+    "2525": 18958,
+    "Kategorie-Nr": "Item-Nr"
+  },
+  {
+    "2521": "Mädchen und Jungs können nicht gut zusammen Computerspiele spielen.",
+    "2522": "Ich spiele in meiner Freizeit gerne am Computer.",
+    "2523": "Ich finde es bedenklich, wenn in Computerspielen andere Menschen getötet werden müssen.",
+    "2524": "Computerspiele finde ich langweilig.",
+    "2525": "Typische \"Lernspiele\" machen meist keinen Spaß.",
+    "Kategorie-Nr": "Item"
+  },
+  {
+    "2521": 3,
+    "2522": 2,
+    "2523": 3,
+    "2524": 3,
+    "2525": 1,
+    "Kategorie-Nr": "Schüler/Student"
+  },
+  {
+    "2521": 2,
+    "2522": 2,
+    "2523": 2,
+    "2524": 1,
+    "2525": 2,
+    "Kategorie-Nr": "Schüler/Student"
+  },
+  {
+    "2521": 2,
+    "2522": 1,
+    "2523": 4,
+    "2524": 4,
+    "2525": 2,
+    "Kategorie-Nr": "Schüler/Student"
+  },
+  {
+    "2521": 1,
+    "2522": 1,
+    "2523": 4,
+    "2524": 2,
+    "2525": 4,
+    "Kategorie-Nr": "Schüler/Student"
+  },
+  {
+    "2521": 1,
+    "2522": 3,
+    "2523": 2,
+    "2524": 2,
+    "2525": 4,
+    "Kategorie-Nr": "Schüler/Student"
+  },
+  {
+    "2521": 2,
+    "2522": 2,
+    "2523": 3,
+    "2524": 2,
+    "2525": 3,
+    "Kategorie-Nr": "Schüler/Student"
+  },
+  {
+    "2521": 1,
+    "2522": 2,
+    "2523": 2,
+    "2524": 1,
+    "2525": 4,
+    "Kategorie-Nr": "Schüler/Student"
+  },
+  {
+    "2521": 4,
+    "2522": 2,
+    "2523": 1,
+    "2524": 4,
+    "2525": 4,
+    "Kategorie-Nr": "Schüler/Student"
+  },
+  {
+    "2521": 1,
+    "2522": 3,
+    "2523": 1,
+    "2524": 1,
+    "2525": 3,
+    "Kategorie-Nr": "Schüler/Student"
+  },
+  {
+    "2521": 4,
+    "2522": 1,
+    "2523": 1,
+    "2524": 1,
+    "2525": 4,
+    "Kategorie-Nr": "Schüler/Student"
+  },
+  {
+    "2521": 4,
+    "2522": 1,
+    "2523": 4,
+    "2524": 1,
+    "2525": 4,
+    "Kategorie-Nr": "Schüler/Student"
+  },
+  {
+    "2521": 2,
+    "2522": 2,
+    "2523": 1,
+    "2524": 2,
+    "2525": 2,
+    "Kategorie-Nr": "Schüler/Student"
+  },
+  {
+    "2521": 2,
+    "2522": 2,
+    "2523": 4,
+    "2524": 2,
+    "2525": 3,
+    "Kategorie-Nr": "Schüler/Student"
+  },
+  {
+    "2521": 3,
+    "2522": 2,
+    "2523": 4,
+    "2524": 2,
+    "2525": 3,
+    "Kategorie-Nr": "Schüler/Student"
+  },
+  {
+    "2521": 3,
+    "2522": 1,
+    "2523": 1,
+    "2524": 4,
+    "2525": 4,
+    "Kategorie-Nr": "Schüler/Student"
+  },
+  {
+    "2521": 1,
+    "2522": 4,
+    "2523": 1,
+    "2524": 1,
+    "2525": 1,
+    "Kategorie-Nr": "Schüler/Student"
+  },
+  {
+    "2521": 1,
+    "2522": 1,
+    "2523": 3,
+    "2524": 4,
+    "2525": 2,
+    "Kategorie-Nr": "Schüler/Student"
+  },
+  {
+    "2521": 1,
+    "2522": 2,
+    "2523": 3,
+    "2524": 1,
+    "2525": 2,
+    "Kategorie-Nr": "Schüler/Student"
+  },
+  {
+    "2521": 4,
+    "2522": 2,
+    "2523": 4,
+    "2524": 3,
+    "2525": 3,
+    "Kategorie-Nr": "Schüler/Student"
+  }
+]
