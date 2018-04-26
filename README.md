@@ -1,6 +1,6 @@
 # MaryWardData
 
-**S**
+**S.fbs**
 
 ***1 2 3 4***
 
@@ -84,7 +84,7 @@ Man sollte sich auch in der Schule mit Computerspielen beschäftigen.
 Typische "Lernspiele" machen meist keinen Spaß.
 
 
-**L**
+**L.fbs**
 
 ***+2 +1 -1 -2***
 
