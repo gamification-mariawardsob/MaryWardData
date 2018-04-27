@@ -58,29 +58,39 @@ Mädchen spielen eher Spiele an Konsolen (wie Playstation oder Xbox), Jungs eher
 Mädchen und Jungs können nicht gut zusammen Computerspiele spielen.
 
 
-*Interest (*
+*Interest (2524)*
 
+18940
 Ich spiele gerne Computerspiele.
 
+18948
 Ich würde gerne auch mal Computerspiele in der Schule spielen.
 
+18949
 Ich weiß, welche Computerspiele gerade "in" sind.
 
+18950
 Ich finde Computerspiele toll.
 
+18951
 Computerspiele finde ich langweilig.
 
 
-*Learning*
+*Learning (18952)*
 
+18952
 Es gibt Computerspiele, von denen man viel lernen kann.
 
+18953
 Computerspiele und "Lernen" haben nichts miteinander zu tun.
 
+18954
 Ich habe von Computerspielen Dinge gelernt, die ich auch "im echten Leben" brauchen kann.
 
+18957
 Man sollte sich auch in der Schule mit Computerspielen beschäftigen.
 
+18958
 Typische "Lernspiele" machen meist keinen Spaß.
 
 
